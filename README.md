@@ -1,4 +1,4 @@
-## Algoritmos e Estruturas de Dados 1 (AED 1)
+## Algoritmos e Estruturas de Dados 1 - AED 1
 
 Meus arquivos para a matéria de Algoritmos e Estruturas de Dados 1 (AED1) da PUC Minas com o professor Lúcio.
 
